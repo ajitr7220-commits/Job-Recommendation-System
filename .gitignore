@@ -1,0 +1,63 @@
+# ==============================
+# Python
+# ==============================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# ==============================
+# Environment Variables
+# ==============================
+.env
+
+# ==============================
+# Jupyter Notebooks
+# ==============================
+.ipynb_checkpoints/
+
+# ==============================
+# Dataset Files (Large Files)
+# ==============================
+data/*.csv
+data/*.xlsx
+data/*.json
+data/
+
+# If you want to keep small sample data, comment above and use:
+# data/jobposts.csv
+
+# ==============================
+# Embeddings & FAISS Index
+# ==============================
+embeddings/
+*.npy
+*.faiss
+
+# ==============================
+# Logs
+# ==============================
+*.log
+
+# ==============================
+# VS Code
+# ==============================
+.vscode/
+
+# ==============================
+# OS Files
+# ==============================
+.DS_Store
+Thumbs.db
+
+
+
