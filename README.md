@@ -1,4 +1,4 @@
-## Ai-Job-Recommendation-System (FAISS + Sentence Transformers)
+## Ai Job Recommendation System using Resume Matching (FAISS + Sentence Transformers)
 A semantic job recommendation system that matches resume text with relevent 
 job description using Sentence Transformers and FAISS vector search.
 
