@@ -1,6 +1,11 @@
 ## Ai Job Recommendation System using Resume Matching (FAISS + Sentence Transformers)
-A semantic job recommendation system that matches resume text with relevent 
-job description using Sentence Transformers and FAISS vector search.
+##  Problem Statement
+Finding the right job based on a resume is time-consuming and inefficient. 
+Recruiters and job seekers struggle to match skills with relevant roles.
+
+##  Solution
+This project uses semantic search with Sentence Transformers and FAISS 
+to match resumes with relevant job descriptions based on meaning, not keywords.
 
 
 # Features
